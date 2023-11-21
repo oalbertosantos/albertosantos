@@ -23,5 +23,5 @@ Me chamo Alberto, sou iniciante no mundo da programação.
 
 * Atualmente faço parte do quadro de colaboradores de uma editora multinacional, em uma filial, na Cidade de Maceió/AL.
 
-##  --------------------------------------------------------------------------------------------
+##  ---------------------------------------------------------------------------------------------
  "Dai graças ao Senhor porque ele é bom, Eterna é a sua misericórdia".
