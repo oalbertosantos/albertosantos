@@ -6,7 +6,7 @@ Me chamo Alberto, sou iniciante no mundo da programação.
 
 * Graduando em Sistemas para Internet, pela Universidade Estadual de Ciências da Saúde de Alagoas - UNCISAL.
 
-* Apaixonado por futebol, pela arte de desenhar, por tecnologia, mangás (One Piece, minha obra preferida) e por um bom livro.
+* Apaixonado por futebol, pela arte de desenhar, por tecnologia, arquitetura, mangás (One Piece, minha obra preferida) e por um bom livro.
 
 ## Habilidades em desenvolvimento:
 
