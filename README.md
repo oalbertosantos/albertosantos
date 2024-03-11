@@ -6,7 +6,7 @@
 
 * Graduando em Sistemas para Internet (Universidade Estadual de Ciências da Saúde de Alagoas - UNCISAL);
 
-* Apaixonado por futebol (vai Corinthians..!), desenhar, tecnologia, arquitetura, mangás (One Piece, minha obra preferida), praia e por um bom livro.
+* Apaixonado por futebol (vai Corinthians..!), rabiscar, tecnologia, arquitetura, mangás (One Piece, minha obra preferida), praia e por um bom livro.
 
 #### Habilidades em desenvolvimento:
 
