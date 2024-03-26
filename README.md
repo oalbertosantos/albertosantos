@@ -1,22 +1,22 @@
-#### Olá, seja bem-vindo(a)!
+##### Olá, seja bem-vindo(a)!
 
 * Me chamo Alberto, sou iniciante no mundo da programação.
 
-#### Sobre mim:
+##### Sobre mim:
 
 * Graduando em Sistemas para Internet (Universidade Estadual de Ciências da Saúde de Alagoas - UNCISAL);
 
-* Apaixonado por futebol (vai Corinthians..!), rabiscar, tecnologia, arquitetura, mangás (One Piece, minha obra preferida), praia e por um bom livro.
+* Apaixonado por tecnologia, futebol, astronomia, arquitetura, mangás, desenhar, praia e por um bom livro.
 
-#### Habilidades em desenvolvimento:
+##### Habilidades em desenvolvimento:
 
 * Python, Java, Javascript, entre outras.
 
-#### Idiomas em desenvolvimento:
+##### Idiomas em desenvolvimento:
 
 * Inglês (básico).
 
-#### Profissão:
+##### Profissão:
 
 * Atualmente sou colaborador de uma livraria, filial de uma editora multinacional, na Cidade de Maceió/AL.
 
